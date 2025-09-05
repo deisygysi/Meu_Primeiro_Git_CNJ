@@ -5,5 +5,13 @@ format: html
 editor: visual
 ---
 
-## Meu Relatório
+## Relatório Markdown
+
+Esse é um relatório em quarto. 
+
+```{r}
+x <- 1:10
+
+x + 1
+```
 
