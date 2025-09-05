@@ -18,3 +18,5 @@ x + 1
 
 ## Nova sessão
 
+Essa é uma sessão nova, com informações sobre XXXX. 
+
